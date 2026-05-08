@@ -1,7 +1,2 @@
-python-telegram-bot==20.7
+python-telegram-bot==21.10
 requests
-flask
-flask-cors
-sqlalchemy
-psycopg2-binary
-gunicorn
