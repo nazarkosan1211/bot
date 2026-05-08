@@ -25,7 +25,7 @@ BOT_TOKEN = "8707863883:AAGePtyGNttlo3EfLT1GXGKlBqFY9TBQ5G0"
 
 API_URL = "https://server-production-30a5.up.railway.app"
 
-WEB_APP_URL = "https://inspiring-puppy-392097.netlify.app/"
+WEB_APP_URL = "https://clinquant-unicorn-9d2118.netlify.app/"
 
 # =========================================
 # SERVER REQUEST
