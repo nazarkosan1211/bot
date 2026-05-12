@@ -21,7 +21,7 @@ import requests
 # CONFIG
 # =========================================
 
-BOT_TOKEN = "8707863883:AAGePtyGNttlo3EfLT1GXGKlBqFY9TBQ5G0"
+BOT_TOKEN = "8707863883:AAHOxX8Aa3IbAzAaDYJHr5mZlJj29I27hjw"
 
 API_URL = "https://server-production-30a5.up.railway.app"
 
